@@ -1,6 +1,6 @@
 Este es un archivo de prueba
 unicamente escribire texto sin sentido
 
-agua pasa por mi casa, cate de mi corazon
+A pinpon no le gustan los aguacates.
 
 Nueva linea despues del primer commit
